@@ -35,7 +35,7 @@ This Google Apps Script automates the process of creating and sending quotations
 4. **Google Apps Script:**
    - Open the Google Sheet linked to the Form.
    - Go to "Extensions" > "Apps Script" to open the script editor.
-   - Copy and paste the [script code](your_script_code.js) into the editor.
+   - Copy and paste the [script code](script_code.js) into the editor.
    - Save the script.
 
 5. **Customization:**
